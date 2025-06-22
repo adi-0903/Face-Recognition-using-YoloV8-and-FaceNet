@@ -17,7 +17,7 @@ This project integrates YoloV8, a state-of-the-art object detection model, with 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/todap/Face-Recognition-using-YoloV8-and-FaceNet.git
+    git clone https://github.com/adi-0903/Face-Recognition-using-YoloV8-and-FaceNet.git
     cd Face-Recognition-using-YoloV8-and-FaceNet
     ```
 
@@ -31,7 +31,8 @@ This project integrates YoloV8, a state-of-the-art object detection model, with 
     ```bash
     pip install -r requirements.txt
     ```
-
+4. Get the known_images
+    Link: https://drive.google.com/drive/folders/1dR3ekSZ7w_H9wxbssx97lGO3mA-Qs9T5?usp=sharing
 ## Usage
 
 1. **Generate Face Embeddings:**
