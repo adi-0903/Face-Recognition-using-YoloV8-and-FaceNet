@@ -44,6 +44,13 @@ This project integrates YoloV8, a state-of-the-art object detection model, with 
     ```bash
     python face_recognition.py
     ```
+
+
+Folder structure
+
+<img src="C:\Users\Singh\OneDrive\Pictures\Screenshots\Screenshot 2025-06-22 145425.png" alt="Logo" width="200"/>
+
+
 ## Note    
 Dont forget to add your paths to directory
 
